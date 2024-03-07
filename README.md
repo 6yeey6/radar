@@ -14,7 +14,6 @@ Radar（雷达）是拍拍贷研发一款分布式注册中心，能够管理不
 
 <img src="doc/assets/my.png"  alt="Radar交互图" align=center />
 
-
 # Features
 注册中心有以下特点：
 
