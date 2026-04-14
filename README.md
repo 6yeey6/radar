@@ -10,12 +10,12 @@ Radar（雷达）是拍拍贷研发一款分布式注册中心，能够管理不
 
 本地快速部署请参见 [wiki](https://github.com/ppdai-incubator/radar/wiki) `快速部署`
 
-# Screenshots
+#  Screenshots
 
 <img src="doc/assets/my.png"  alt="Radar交互图" align=center />
 
 # Features
-注册中心有以下特点：
+注册中心有以下这些特点：
 
 1. 实现简单， 没有采用复杂的Raft等分布式一致性算法， 节点间状态同步仅通过mysql数据库实现。
 2. 服务端和客户端轻量， 依赖少， 服务端仅依赖mysql数据库。
